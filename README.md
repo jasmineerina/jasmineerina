@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasmineerina
+- 👋 Hi, I’m Jasmine Erina Firdaus
 - 👀 I’m interested in Back End Engineering
 - 🌱 I’m currently learning Golang
 
