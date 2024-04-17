@@ -7,6 +7,5 @@ I have interest in Golang, JavaScript and database such as PHP, SQLite, and MySQ
 <p align="left">
 <a href="https://github.com/jasmineerina">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jasmineerina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jasmineerina&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
